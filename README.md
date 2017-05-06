@@ -1,4 +1,4 @@
- ![Logo_DATAUNIRIO](http://url/to/img.png)
+ ![Logo_DATAUNIRIO](https://raw.githubusercontent.com/thiagoassantos/googlesheets-shinyapps/master/datauniriologo.png)
  
  # DATAUNIRIO - Engajamento com Tomada de Decisões
  
