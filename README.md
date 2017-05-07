@@ -2,7 +2,7 @@
  
  # DATAUNIRIO - Engajamento com Tomada de Decisões
  
-Aplicativos que visam empoderar a todos os interessados na UNIRIO no tocante à transparência de dados e apoio à gestão nas tomadas de decisão. Promovemos, assim, maior integração e melhoria da comunicação na Universidade.
+Aplicativos que visam empoderar a todos os interessados na UNIRIO, no tocante à transparência de dados e apoio à gestão nas tomadas de decisão. Promovemos, assim, maior integração e melhoria da comunicação na Universidade.
 
 ## Início ##
 
@@ -29,13 +29,10 @@ install.packages("magrittr")
 
 Abrir os arquivos ```server.R``` e ```ui.R``` no RStudio e executar:
 
-
-
 ## Tecnologia ##
 
 * [Shiny](http://shiny.rstudio.com/) - Framework para aplicações web
 * [RStudio](https://www.rstudio.com/) - IDE para R
-* 
 
 ## Licença ##
 
