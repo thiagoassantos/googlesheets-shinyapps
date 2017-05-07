@@ -6,7 +6,7 @@ Proposta de aplicativos que visam empoderar a todos os interessados na UNIRIO, n
 
 ## Início ##
 
-Usamos aplicações [Shiny](http://shiny.rstudio.com/), que fornecem recursos extraordinários para a web com a linguagem de programação R. E, para agilizar este trabalho, adotamos o [RStudio](https://www.rstudio.com/).
+Usamos aplicações [Shiny](http://shiny.rstudio.com/), que fornecem recursos extraordinários para a web, com a linguagem de programação R. E, para agilizar este trabalho, adotamos o [RStudio](https://www.rstudio.com/).
 
 ## Pré-requisitos ##
 
