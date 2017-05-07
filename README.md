@@ -12,12 +12,15 @@ Fazemos uso de aplicações [Shiny](http://shiny.rstudio.com/), que permite recu
 
 Pacotes necessários
 
+Para plotar os gráficos:
 ```
 install.packages(plotly)
 ```
+Para manipulação de dados:
 ```
 install.packages(plyr)
 ```
+Para melhor legibilidade e manutenção:
 ```
 install.packages(magrittr)
 ```
