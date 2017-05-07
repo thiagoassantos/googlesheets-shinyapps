@@ -37,6 +37,9 @@ Abrir os arquivos ```server.R``` e ```ui.R``` no RStudio e executar:
 * [RStudio](https://www.rstudio.com/) - IDE para R
 * 
 
+## Licença ##
+
+MIT License
 
 <!--
  # Google Sheets & Shiny Apps
