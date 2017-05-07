@@ -30,10 +30,11 @@ install.packages("magrittr")
 
 Abrir os arquivos ```server.R``` e ```ui.R``` no RStudio e executar:
 
-## Tecnologia ##
+## Tecnologias ##
 
 * [Shiny](http://shiny.rstudio.com/) - Framework de aplicações web
 * [RStudio](https://www.rstudio.com/) - IDE para R
+* *base(s) de dado(s) consultada(s)*
 
 ## Licença ##
 
