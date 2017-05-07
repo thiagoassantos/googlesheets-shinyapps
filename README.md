@@ -6,8 +6,22 @@ Aplicativos que visam empoderar a todos os interessados na UNIRIO no tocante à 
 
 ## Início ##
 
-Fazemos uso de aplicações  <a href="http://shiny.rstudio.com/" target="_blank">Shiny</a>, que permite recursos extraordinários para a web com a linguagem de R. E, para agilizar este trabalho, adotamos o [RStudio](https://www.rstudio.com/).
-<a href="http://example.com/" target="_blank">example</a>
+Fazemos uso de aplicações [Shiny](http://shiny.rstudio.com/), que permite recursos extraordinários para a web com a linguagem de programação R. E, para agilizar este trabalho, adotamos o [RStudio](https://www.rstudio.com/).
+
+## Pré-requisitos ##
+
+Pacotes necessários
+
+```
+install.packages(plotly)
+```
+```
+install.packages(plyr)
+```
+```
+install.packages(magrittr)
+```
+
 ## Tecnologia ##
 
 Usamos de aplicações em Shiny Apps
