@@ -6,7 +6,7 @@ Aplicativos que visam empoderar a todos os interessados na UNIRIO, no tocante à
 
 ## Início ##
 
-Fazemos uso de aplicações [Shiny](http://shiny.rstudio.com/), que permitem recursos extraordinários para a web com a linguagem de programação R. E, para agilizar este trabalho, adotamos o [RStudio](https://www.rstudio.com/).
+Fazemos uso de aplicações [Shiny](http://shiny.rstudio.com/), que fornecem recursos extraordinários para a web com a linguagem de programação R. E, para agilizar este trabalho, adotamos o [RStudio](https://www.rstudio.com/).
 
 ## Pré-requisitos ##
 
@@ -31,16 +31,11 @@ Abrir os arquivos ```server.R``` e ```ui.R``` no RStudio e executar:
 
 ## Tecnologia ##
 
-* [Shiny](http://shiny.rstudio.com/) - Framework para aplicações web
+* [Shiny](http://shiny.rstudio.com/) - Framework de aplicações web
 * [RStudio](https://www.rstudio.com/) - IDE para R
 
 ## Licença ##
 
 MIT License
 
-<!--
- # Google Sheets & Shiny Apps
-Aplicativo para facilitar a integração das planilhas Google com Shiny Apps.
-
-Objetivo: salvar dados e apresentá-los de forma simples. 
--->
+<!---->
