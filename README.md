@@ -25,6 +25,12 @@ Para melhor legibilidade e manutenção:
 install.packages("magrittr")
 ```
 
+## Instalação ##
+
+Abrir os arquivos ```server.R``` e ```ui.R``` no RStudio e executar:
+
+
+
 ## Tecnologia ##
 
 Usamos de aplicações em Shiny Apps
