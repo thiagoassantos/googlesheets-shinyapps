@@ -10,7 +10,7 @@ Fazemos uso de aplicações [Shiny](http://shiny.rstudio.com/), que permite recu
 
 ## Pré-requisitos ##
 
-Pacotes necessários
+Pacotes
 
 Para plotar os gráficos:
 ```
