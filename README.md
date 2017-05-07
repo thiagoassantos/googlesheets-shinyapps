@@ -2,7 +2,11 @@
  
  # DATAUNIRIO - Engajamento com Tomada de Decisões
  
-Aplicativos que visam empoderar a todos os interessados na UNIRIO no tocante à transparência de dados e apoio à gestão nas tomadas de decisão. Promovemos, assim, maior integração e melhoria da comunicação
+Aplicativos que visam empoderar a todos os interessados na UNIRIO no tocante à transparência de dados e apoio à gestão nas tomadas de decisão. Promovemos, assim, maior integração e melhoria da comunicação na Universidade.
+
+## Tecnologia ##
+
+Usamos de aplicações em Shiny Apps
 
 Objetivo: salvar dados e apresentá-los de forma simples. 
 
