@@ -33,7 +33,8 @@ Abrir os arquivos ```server.R``` e ```ui.R``` no RStudio e executar:
 
 * [Shiny](http://shiny.rstudio.com/) - Framework de aplicações web
 * [RStudio](https://www.rstudio.com/) - IDE para R
-* *base(s) de dado(s) consultada(s)*
+* *base(s) de dado(s) consultada(s)* (incluir?)
+* [RMarkdown](http://rmarkdown.rstudio.com/) (incluir?)
 
 ## Licença ##
 
