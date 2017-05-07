@@ -33,9 +33,9 @@ Abrir os arquivos ```server.R``` e ```ui.R``` no RStudio e executar:
 
 ## Tecnologia ##
 
-Usamos de aplicações em Shiny Apps
-
-Objetivo: salvar dados e apresentá-los de forma simples. 
+* [Shiny](http://shiny.rstudio.com/) - Framework para aplicações web
+* [RStudio](https://www.rstudio.com/) - IDE para R
+* 
 
 
 <!--
