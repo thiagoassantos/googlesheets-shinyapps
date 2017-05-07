@@ -8,9 +8,11 @@ Proposta de aplicativos que visam empoderar a todos os interessados na UNIRIO, n
 
 Usamos aplicações [Shiny](http://shiny.rstudio.com/), que fornecem recursos extraordinários para a web, com a linguagem de programação R. E, para agilizar este trabalho, adotamos o [RStudio](https://www.rstudio.com/).
 
-## Pré-requisitos ##
+## Pré-requisitos - Pacotes ##
 
-Pacotes
+Shiny:
+```
+install.packages("shiny")
 
 Para plotar os gráficos:
 ```
@@ -38,6 +40,6 @@ Abrir os arquivos ```server.R``` e ```ui.R``` no RStudio e executar:
 
 ## Licença ##
 
-MIT License
+MIT License.
 
 <!---->
