@@ -20,7 +20,7 @@ Para manipulação de dados:
 ```
 install.packages("plyr")
 ```
-Para melhor legibilidade e manutenção:
+Para melhor legibilidade e manutenção de código-fonte:
 ```
 install.packages("magrittr")
 ```
