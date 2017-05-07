@@ -14,15 +14,15 @@ Pacotes
 
 Para plotar os gráficos:
 ```
-install.packages(plotly)
+install.packages("plotly")
 ```
 Para manipulação de dados:
 ```
-install.packages(plyr)
+install.packages("plyr")
 ```
 Para melhor legibilidade e manutenção:
 ```
-install.packages(magrittr)
+install.packages("magrittr")
 ```
 
 ## Tecnologia ##
