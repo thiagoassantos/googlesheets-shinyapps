@@ -13,7 +13,7 @@ Usamos aplicações [Shiny](http://shiny.rstudio.com/), que fornecem recursos ex
 Shiny:
 ```
 install.packages("shiny")
-
+```
 Para plotar os gráficos:
 ```
 install.packages("plotly")
@@ -29,7 +29,7 @@ install.packages("magrittr")
 
 ## Instalação ##
 
-Abrir os arquivos ```server.R``` e ```ui.R``` no RStudio e executar:
+Abrir os arquivos ```server.R``` e ```ui.R``` no RStudio e executar. O aplicativo abrirá em uma nova janela.
 
 ## Tecnologias ##
 
