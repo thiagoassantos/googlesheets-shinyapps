@@ -1,9 +1,10 @@
 library(shiny)
 library(googlesheets)
 library(DT)
+library(httr) 
 
-library(httr) # Biblioteca de autenticação. Se não a quiser, usar o script de 'autenticacao.R'
-set_config(config(ssl_verifypeer = 0L)) # Ignora 'warnings'.
+# Ignore warnings.
+set_config(config(ssl_verifypeer = 0L)) 
 
 # Write/read functions.
 source("functions/functions.R")
