@@ -4,7 +4,7 @@
 ## Google Sheets R API
 
 ## Authenticate
-[Managing OAuth Tokens](https://rawgit.com/jennybc/googlesheets/master/vignettes/managing-auth-tokens.html)
+See more: [Managing OAuth Tokens](https://rawgit.com/jennybc/googlesheets/master/vignettes/managing-auth-tokens.html)
 
 ## Referências
 * [Package googlesheets](https://cran.r-project.org/web/packages/googlesheets/googlesheets.pdf)
