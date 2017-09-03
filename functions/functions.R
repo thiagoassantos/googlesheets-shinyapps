@@ -1,6 +1,6 @@
 library(shiny)
 library(googlesheets)
-library(httr) # Sem essa biblioteca, usar o script de 'autenticacao.R'
+library(httr)
 
 saveData <- function(data) {
   # Grab the Google Sheet
