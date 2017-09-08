@@ -6,7 +6,7 @@
 ## Authenticate
 See more: [Managing OAuth Tokens](https://rawgit.com/jennybc/googlesheets/master/vignettes/managing-auth-tokens.html)
 
-## Referências
+## References
 * [Package googlesheets](https://cran.r-project.org/web/packages/googlesheets/googlesheets.pdf)
 * [googlesheets Basic Usage](https://cran.r-project.org/web/packages/googlesheets/vignettes/basic-usage.html)
 
