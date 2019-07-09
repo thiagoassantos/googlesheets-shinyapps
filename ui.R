@@ -8,7 +8,7 @@ source("functions/functions.R")
 shinyUI(
   ui = fluidPage(
     
-    # Import styles CSS.
+    # Import CSS styles.
     tags$head(
       tags$link(rel = "stylesheet", type = "text/css", href = "style.css")
     ),
@@ -18,7 +18,7 @@ shinyUI(
     # Shows the table.
     DT::dataTableOutput("responses", width = 300), tags$hr(),
     
-    textInput("name", "Name", ""),
+    textInput("name", "Nome", ""),
     
     checkboxInput("used_shiny", "Já criei um app em Shiny antes", FALSE),
     
