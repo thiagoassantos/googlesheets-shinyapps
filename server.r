@@ -9,7 +9,7 @@ set_config(config(ssl_verifypeer = 0L))
 # Write/read functions.
 source("functions/functions.R")
 
-# Import sheets by her ID.
+# Import sheets by ID.
 gap_ss <- gs_key("1FmoHz9-HszXkbOKqZ_2-HxAtV-HDpw3k_Gw7eHk-PK0")
 
 # Read as 'data'.
